@@ -11,7 +11,7 @@ I have been coding for about 4 years now. I started when i was 13 and now i am s
 *   🚀  I'm currently working on [Tweetflow](http://tweetflow.pro)
 *   🧠  I'm learning C++, C and Zig
 *   🤝  I'm open to collaborating on Basically any project as long as it is not about 3D Gamedev or Web3 as i am not interested in those aspects. But anything Webdev LLMs or Native or Automation or anything. Contact me
-*   ⚡  I am the chosen one. Don't tell anyone<a href="https://www.x.com/highoctane0000" target="_blank" rel="noreferrer"><img
+*   ⚡  <a href="https://www.x.com/highoctane0000" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/highoctane0000?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills 
 <p align="left">
