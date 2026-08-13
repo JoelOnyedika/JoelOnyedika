@@ -4,7 +4,7 @@ Hi 👋 My name is Joel Onyedika
 Fullstack Developer / Software Developer
 ----------------------------------------
 
-I have been coding for about 4 years now. I started when i was 13 and now i am super proficient in programming and i am building my own Startups. Wanna join me or collaborate on any project. Contact me
+I have been coding for about 5 years now. I started when i was 14 and now i am super proficient in programming and i am building my own Startups. Wanna join me or collaborate on any project. Contact me
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [joelonyedikaepic@gmail.com](mailto:joelonyedikaepic@gmail.com)
